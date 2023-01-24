@@ -1,4 +1,5 @@
-[pandas-challenge README.docx](https://github.com/katieborlie/pandas-challenge/files/10493580/pandas-challenge.README.docx)
+[pandas-challenge README.pdf](https://github.com/katieborlie/pandas-challenge/files/10493604/pandas-challenge.README.pdf)
+
 # pandas-challenge
 In this assignment, I created and manipulated Pandas DataFrames to analyze school and standardized test data. I also included a written report that summarizes my analysis and draws two correct conclusions or comparisons from the calculations.
 
